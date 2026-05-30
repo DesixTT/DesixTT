@@ -6,8 +6,7 @@ I am a final-year **Computer Science** student at **Babeș-Bolyai University**. 
 
 ### 🛠️ Technical Skills
 
-* **Languages:** `C++` | `Java` | `C#` | `Python` | `SQL`
-* **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Design Patterns, Operating Systems
+* **Languages:** | `Python` | `JavaScript` | `C#`|
 
 ---
 
@@ -29,7 +28,6 @@ I am a final-year **Computer Science** student at **Babeș-Bolyai University**. 
 * 🥇 **1st Place** – Hermes Hackathon: *Retro Games with Cybersecurity* (Built a secure retro game engine under strict security constraints)
 * 🎖️ **4th Place (Mention)** – National Olympiad of Technology (C# Section)
 * 💯 **Maximum Grade (10/10)** – West University Timișoara Admission & Oeconomicus Napocensis Competition
-* 🏃‍♂️ **1st Place** – Regional Pentathlon Athletic Achievement
 
 
 ### 📫 Connect with me
