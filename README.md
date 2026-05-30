@@ -31,17 +31,8 @@ I am a final-year **Computer Science** student at **Babeș-Bolyai University**. 
 * 💯 **Maximum Grade (10/10)** – West University Timișoara Admission & Oeconomicus Napocensis Competition
 * 🏃‍♂️ **1st Place** – Regional Pentathlon Athletic Achievement
 
----
-
-### 📊 GitHub Stats
-
-![Mihnea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DesixTT&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DesixTT&layout=compact&theme=dark&hide_border=true)
-
----
 
 ### 📫 Connect with me
 
-* **LinkedIn:** [Your Profile Link Here]
+* **LinkedIn:** https://www.linkedin.com/in/mihnea-voda-268953289/
 * **Email:** mihneavoda51@yahoo.com
