@@ -75,6 +75,8 @@ I am a driven software developer and final-year student graduating in June 2026.
 
 ---
 
+---
+
 ## 📊 Automated Activity Metrics
 
 <div align="center">
@@ -82,11 +84,11 @@ I am a driven software developer and final-year student graduating in June 2026.
     <tr>
       <td align="center" valign="top" width="50%">
         <strong>Core GitHub Statistics</strong><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=DesixTT&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mihnea's GitHub Stats" />
+        <img src="https://github-readme-stats-two-nu.vercel.app/api?username=DesixTT&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mihnea's GitHub Stats" />
       </td>
       <td align="center" valign="top" width="50%">
-        <strong>Language Distribution Profile</strong><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesixTT&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+        <strong>Contribution Streak Profile</strong><br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DesixTT&theme=dark&hide_border=true" alt="Mihnea's GitHub Streak" />
       </td>
     </tr>
   </table>
