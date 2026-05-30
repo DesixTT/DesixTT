@@ -72,7 +72,6 @@ I am a driven software developer and final-year student graduating in June 2026.
 * 🎖️ **National Mention (4th Place)** | *National Olympiad of Technology (C# Section)*
 * 💯 **Direct Entry Maximum Grade (10/10)** | *West University Timișoara Admission*
 * 💯 **Maximum Grade & Scholarship** | *Oeconomicus Napocensis Competition (IT Section)*
-* running🏃‍♂️ **1st Place Champion** | *Regional Pentathlon Athletic Achievement*
 
 ---
 
