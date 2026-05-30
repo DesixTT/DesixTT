@@ -2,7 +2,7 @@
 
 # 🌌 Mihnea Voda
 
-**Final-Year Computer Science Student @ Babeș-Bolyai University** *Specializing in High-Performance Systems, Algorithmic Optimization & Cybersecurity Foundations*
+**Final-Year Computer Science Student @ Babeș-Bolyai University** 
 
 [💼 LinkedIn](https://www.linkedin.com/in/mihnea-voda-268953289/) • [📧 Email](mailto:mihneavoda51@yahoo.com)
 
