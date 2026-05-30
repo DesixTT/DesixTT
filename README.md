@@ -49,7 +49,7 @@ I am a driven software developer and final-year student graduating in June 2026.
 
 ## 💻 Professional Experience & Key Projects
 
-### **Bachelor Thesis: ETravel Recommender Engine** | Author 🎓
+### **Bachelor Thesis: ETravel Recommender Engine** 
 * **5D Vector Space Model:** Modeled multi-modal travel packages as normalized continuous vectors covering price, hotel rating, time quality, flight duration, and location distance (via exponential decay). Handled ranking via Cosine Similarity optimization to surface qualitatively superior, Pareto-efficient options.
 * **Swipe-to-Learn RL Loop:** Engineered a real-time online reinforcement learning loop driven by a swipe-based UI wrapper (`Hammer.js`) to combat the cold-start problem. Implemented asymmetric learning rates ($\alpha_{pos}=0.05$, $\alpha_{neg}=-0.02$) to dynamically shift the user preference profile based on micro-feedback loops.
 * **High-Performance Architecture:** Developed an asynchronous, layered backend service using `FastAPI` and an embedded `SQLite` database. Applied **Batch Vectorization** over candidate feature matrices via Scikit-Learn to reduce linear interpretation bottlenecks by **24x**, maintaining sub-second latency over thousands of packages.
